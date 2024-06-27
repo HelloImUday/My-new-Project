@@ -1,0 +1,6 @@
+pageclass\com\CandidateModule.class
+pageclass\com\LoginPage.class
+pageclass\com\SupplierModule.class
+utilclass\BaseClass.class
+pageclass\com\DashBoard.class
+testcase\TC_01.class
